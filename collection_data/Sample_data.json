@@ -1,0 +1,34 @@
+[
+    {
+      "Name": "Yeezy 350 V2 Triple Black",
+      "Description": "You can never have too much heat, so cop the adidas Yeezy Boost 350 V2 Black. This Yeezy Boost 350 V2 comes with a black upper, black midsole, and a black sole. These sneakers released in June 2019 and retailed for $220.",
+      "Price": 800,
+      "Password": 0,
+      "Image": 2,
+      "Brand": "Yeezy"
+    },
+    {
+      "Name": "Louise Vuitton Run Away Trainers",
+      "Description": "Trainer in a mix of Monogram canvas, technical lining and a rubber hand-crafted outsole.\nDetailed Features\n\n\n",
+      "Price": 1050,
+      "Password": 0,
+      "Image": 3,
+      "Brand": "Louise Vuitton"
+    },
+    {
+      "Name": "Gucci T-Shirt",
+      "Description": "Alessandro Michele brings the Gucci logo to the forefront, inspired by vintage prints from the eighties. The retro-style motif is presented on a T-shirt style made in washed cotton jersey with small holes in the fabric for a vintage effect. Black washed cotton jersey with Gucci vintage logo. crew neck. Straight fit. 100% cotton. Made in Italy. The model is 6’2” and is wearing a size medium.\n\n",
+      "Price": 500,
+      "Password": 0,
+      "Image": 4,
+      "Brand": "Gucci"
+    },
+    {
+      "Name": "Air Jordan 1 Retro High OG",
+      "Description": "Supplied by a premier sneaker marketplace dealing with unworn, already sold out, in demand rarities. Each product is rigorously inspected by experienced experts guaranteeing authenticity. Released in 2015, the “Shattered Backboard” Air Jordan 1 High is inspired by an exhibition game Michael Jordan participated in back in 1985 in Trieste, Italy where he broke the glass backboard after a dunk. Constructed in high quality tumbled leather in the original high­top silhouette of the Air Jordan 1, the orange, black, and white colorway is taken from the team uniform MJ wore during the game and modeled after the OG “Black Toe” AJ1 color block. Highly limited upon its initial release, the “Shattered Backboard” Air Jordan 1 disappeared quickly and is now one of the most sought after non­original colorways of the legendary shoe.\n\n",
+      "Price": 200,
+      "Password": 0,
+      "Image": 5,
+      "Brand": "Nike"
+    }
+   ]
